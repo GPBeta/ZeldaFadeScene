@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/logo.png</file>
+        <file>images/hp.png</file>
+        <file>images/mp.png</file>
+        <file>images/kokufuku.png</file>
+        <file>images/korogu.png</file>
+        <file>images/rupi.png</file>
+        <file>images/shiren.png</file>
+        <file>images/medou.png</file>
+        <file>images/naborisu.png</file>
+        <file>images/rutta.png</file>
+        <file>images/ruudania.png</file>
+        <file>qml/main.qml</file>
+        <file>qml/FadeScene.qml</file>
+        <file>qml/Decoration.qml</file>
+        <file>qml/Statistic.qml</file>
+        <file>qml/BusyIndicator.qml</file>
+        <file>qml/BusyCircle.qml</file>
+        <file>qml/ProgressBar.qml</file>
+        <file>qml/IconText.qml</file>
+    </qresource>
+</RCC>
